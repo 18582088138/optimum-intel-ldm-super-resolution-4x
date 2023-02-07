@@ -1,6 +1,8 @@
 # optimum-intel-ldm-super-resolution-4x
 This repo provides a simple ldm super resolution example of how to use [Optimum-intel](https://github.com/huggingface/optimum-intel) to optimize and accelerate inference of Hugging Face Model [Ldm-super-resolution](https://huggingface.co/CompVis/ldm-super-resolution-4x-openimages) with OpenVINO on Intel CPU.
 
+![avatar](./ldm-4x-result-show.png)
+
 ## Installation 
 - optimum-intel==1.5.2 (include openvino)
     - openvino
